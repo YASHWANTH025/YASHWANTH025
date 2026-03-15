@@ -1,146 +1,93 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yashwanth+A+M;AI+%7C+Full+Stack+Developer;Flutter+%7C+React+%7C+Python;Building+Smart+Digital+Solutions" alt="Typing SVG"/>
+# 🚀 Yashwanth A M
+### **Final-Year IT Student | Backend & Full-Stack Developer**
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Node.js+%7C+Java+%7C+Python;Full+Stack+Developer;Flutter+Mobile+Dev;AI+Enthusiast" alt="Typing SVG"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YASHWANTH025&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanth-a-m-0b8198294)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthyashum2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YASHWANTH025)
 
----
-
-## 🚀 About Me
-
-**Software Developer | AI & Full Stack Enthusiast**
-
-I enjoy transforming **ideas into real-world applications** using modern technologies.  
-Currently focusing on **AI systems, scalable web applications, and cloud development**.
-
-- 🎯 **Current Focus:** AI Development, Full Stack Applications  
-- 💡 **Interest:** Machine Learning, Cloud Computing, Mobile Apps  
-- 🌱 **Learning:** Advanced React, System Design, AI Models  
-- ⚡ **Creative Side:** Graphic design, photo editing & UI design  
-- 📫 **Email:** yashwanthyashu.m2003@gmail.com  
+<img src="https://komarev.com/ghpvc/?username=YASHWANTH025&label=Profile%20views&color=00D4AA&style=flat-square" alt="Views" />
 
 ---
 
-## 🛠️ Technology Stack
+## 👨‍💻 Professional Summary
 
-### Programming Languages
+[cite_start]I am a final-year **Information Technology** student at **Alliance College of Engineering and Design**[cite: 60, 61]. [cite_start]I specialize in building scalable web applications and writing optimized code, with a deep focus on **Data Structures, Algorithms, and Backend Development**[cite: 35, 36, 37].
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* 🎓 **Education:** B.Tech in IT (2022 - 2026) | [cite_start]CGPA: 7.3 [cite: 60, 62, 70]
+* [cite_start]💼 **Experience:** AI + Sustainability Virtual Intern @ IBM SkillsBuild / AICTE [cite: 56, 57]
+* [cite_start]🛠️ **Expertise:** Scalable Web Apps, RESTful APIs, and Relational Database Design [cite: 36, 40, 48]
+* [cite_start]🎯 **Goal:** Contributing to product-focused engineering teams [cite: 37]
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Development Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### AI / Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Cloud & Databases
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Design Tools
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YASHWANTH025&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHWANTH025&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHWANTH025&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### ⚙️ Core Concepts
+**DSA | OOP | DBMS | OS | [cite_start]SDLC (Agile)** [cite: 42]
 
 ---
 
-## 🏆 GitHub Trophies
+## 📂 Key Projects
 
-<p align="center">
+### 🏛️ University Annual Report Portal
+* **Tech:** Node.js, MySQL [cite: 46]
+* [cite_start]Developed a full-stack application to manage structured reports via **RESTful APIs**[cite: 47].
+* [cite_start]Designed **normalized relational database schemas** with indexing to enhance query performance[cite: 48].
+* Implemented secure CRUD operations and optimized logic for high scalability[cite: 49].
 
-<img src="https://github-profile-trophy.vercel.app/?username=YASHWANTH025&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+### 📱 ExamPrep Mobile Application
+* [cite_start]**Tech:** Flutter, Firebase [cite: 51]
+* [cite_start]Built a cross-platform app featuring **Firebase Authentication** and real-time data sync[cite: 52].
+* Integrated **Firestore** for scalable backend data management and modular architecture[cite: 53, 54].
 
 ---
 
-## 🐍 3D Contribution Snake
+## 📜 Certifications
+
+* [cite_start]🏆 **Oracle OCI AI Foundations Associate** (2025) [cite: 64, 65]
+* [cite_start]⚛️ **React Front-End Development** - Coursera (2025) [cite: 66]
+* 💙 **Flutter Development** - Infosys (2025) [cite: 67]
+* [cite_start]🌿 **Strategic Communication for Sustainable Dev** - NPTEL/IITK (2025) [cite: 69]
+* [cite_start]🔐 **Data Security and Privacy** - Coursera (2023) [cite: 68]
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
-
-<img src="https://github.com/YASHWANTH025/YASHWANTH025/blob/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YASHWANTH025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHWANTH025&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
+## 🐍 Contribution Snake
 <p align="center">
-
-<a href="https://www.linkedin.com/in/yashwanth-a-m-0b8198294">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/yashhuuu25">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:yashwanthyashu.m2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github.com/YASHWANTH025/YASHWANTH025/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTH025&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+  [cite_start]<i>"Optimized code leads to optimized solutions."</i> [cite: 37]
+</p>
 
 </div>
-
----
-
-<p align="center">
-
-<i>"Code is like humor. When you have to explain it, it's bad."</i>
-
-</p>
-
-<p align="center">
-
-⭐ From <a href="https://github.com/YASHWANTH025">Yashwanth</a>
-
-</p>
