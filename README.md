@@ -18,6 +18,7 @@
 I am a final-year **Information Technology** student at **Alliance College of Engineering and Design**I specialize in building scalable web applications and writing optimized code, with a deep focus on **Data Structures, Algorithms, and Backend Development**
 
 * 🎓 **Education:** B.Tech in IT (2022 - 2026) | CGPA: 7.3 
+
 *💼 **Experience:** AI + Sustainability Virtual Intern @ IBM SkillsBuild / AICTE 
 * 🛠️ **Expertise:** Scalable Web Apps, RESTful APIs, and Relational Database Design 
 * 🎯 **Goal:** Contributing to product-focused engineering teams
@@ -41,7 +42,7 @@ I am a final-year **Information Technology** student at **Alliance College of En
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### ⚙️ Core Concepts
-**DSA | OOP | DBMS | OS | [cite_start]SDLC (Agile)** 
+**DSA | OOP | DBMS | OS |SDLC (Agile)** 
 
 ---
 
