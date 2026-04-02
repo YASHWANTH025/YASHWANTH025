@@ -15,12 +15,12 @@
 
 ## 👨‍💻 Professional Summary
 
-[cite_start]I am a final-year **Information Technology** student at **Alliance College of Engineering and Design**[cite: 60, 61]. [cite_start]I specialize in building scalable web applications and writing optimized code, with a deep focus on **Data Structures, Algorithms, and Backend Development**[cite: 35, 36, 37].
+I am a final-year **Information Technology** student at **Alliance College of Engineering and Design**I specialize in building scalable web applications and writing optimized code, with a deep focus on **Data Structures, Algorithms, and Backend Development**
 
-* 🎓 **Education:** B.Tech in IT (2022 - 2026) | [cite_start]CGPA: 7.3 [cite: 60, 62, 70]
-* [cite_start]💼 **Experience:** AI + Sustainability Virtual Intern @ IBM SkillsBuild / AICTE [cite: 56, 57]
-* [cite_start]🛠️ **Expertise:** Scalable Web Apps, RESTful APIs, and Relational Database Design [cite: 36, 40, 48]
-* [cite_start]🎯 **Goal:** Contributing to product-focused engineering teams [cite: 37]
+* 🎓 **Education:** B.Tech in IT (2022 - 2026) | CGPA: 7.3 
+*💼 **Experience:** AI + Sustainability Virtual Intern @ IBM SkillsBuild / AICTE 
+* 🛠️ **Expertise:** Scalable Web Apps, RESTful APIs, and Relational Database Design 
+* 🎯 **Goal:** Contributing to product-focused engineering teams
 
 ---
 
@@ -41,32 +41,32 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### ⚙️ Core Concepts
-**DSA | OOP | DBMS | OS | [cite_start]SDLC (Agile)** [cite: 42]
+**DSA | OOP | DBMS | OS | [cite_start]SDLC (Agile)** 
 
 ---
 
 ## 📂 Key Projects
 
 ### 🏛️ University Annual Report Portal
-* **Tech:** Node.js, MySQL [cite: 46]
-* [cite_start]Developed a full-stack application to manage structured reports via **RESTful APIs**[cite: 47].
-* [cite_start]Designed **normalized relational database schemas** with indexing to enhance query performance[cite: 48].
-* Implemented secure CRUD operations and optimized logic for high scalability[cite: 49].
+* **Tech:** Node.js, MySQL 
+* Developed a full-stack application to manage structured reports via **RESTful APIs**
+* Designed **normalized relational database schemas** with indexing to enhance query performance
+* Implemented secure CRUD operations and optimized logic for high scalability
 
 ### 📱 ExamPrep Mobile Application
-* [cite_start]**Tech:** Flutter, Firebase [cite: 51]
-* [cite_start]Built a cross-platform app featuring **Firebase Authentication** and real-time data sync[cite: 52].
-* Integrated **Firestore** for scalable backend data management and modular architecture[cite: 53, 54].
+* **Tech:** Flutter, Firebase 
+* Built a cross-platform app featuring **Firebase Authentication** and real-time data sync
+* Integrated **Firestore** for scalable backend data management and modular architecture
 
 ---
 
 ## 📜 Certifications
 
-* [cite_start]🏆 **Oracle OCI AI Foundations Associate** (2025) [cite: 64, 65]
-* [cite_start]⚛️ **React Front-End Development** - Coursera (2025) [cite: 66]
-* 💙 **Flutter Development** - Infosys (2025) [cite: 67]
-* [cite_start]🌿 **Strategic Communication for Sustainable Dev** - NPTEL/IITK (2025) [cite: 69]
-* [cite_start]🔐 **Data Security and Privacy** - Coursera (2023) [cite: 68]
+* 🏆 **Oracle OCI AI Foundations Associate** (2025) 
+* ⚛️ **React Front-End Development** - Coursera (2025) 
+* 💙 **Flutter Development** - Infosys (2025) 
+* 🌿 **Strategic Communication for Sustainable Dev** - NPTEL/IITK (2025) 
+* 🔐 **Data Security and Privacy** - Coursera (2023)
 
 ---
 
@@ -78,16 +78,5 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/YASHWANTH025/YASHWANTH025/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  [cite_start]<i>"Optimized code leads to optimized solutions."</i> [cite: 37]
-</p>
 
 </div>
